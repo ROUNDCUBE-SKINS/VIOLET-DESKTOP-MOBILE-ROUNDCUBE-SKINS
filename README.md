@@ -9,13 +9,13 @@ Read the instruction to activate the RoundcubeSkins : [Instructions to Use](http
 
 ## Desktop View ##
 
-![Violet Desktop Roundcube Skins](https://roundcubeskins.com/wp-content/uploads/2015/04/violet_mail.png)
+![Violet Desktop Roundcube Skins](images/violet_mail.png)
 
 ---
 
 ## Mobile View ##
 
-![Violet Mobile Roundcube Skins](https://roundcubeskins.com/wp-content/uploads/2015/04/voilet.png)
+![Violet Mobile Roundcube Skins](images/voilet.png)
 
 ---
 
